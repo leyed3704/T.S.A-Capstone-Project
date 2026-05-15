@@ -1,22 +1,15 @@
 # Oladipupo Store Data Analysis (Interactive Dashboard creation )
 ## Project Objective
-Oladipupo Store wants to create an annual sales report for 2022,2023 and 2024. So that, the owner of the Oladipupo store can understand their customers,staffs and fleets to grow more sales in the coming years.
-
+Oladipupo Store wants to create an annual report of Driver's performance for 2022,2023 and 2024, to evaluate it's driver's performance
 ## Dataset used
-https://drive.google.com/drive/folders/1Uk7U-DvssMWGyBxSaXHo-TqzanptUJZf
+https://docs.google.com/spreadsheets/d/1CAT5kcz5HGAEOz4lmiokEmLFbbs6cQQI/edit?usp=drive_link&ouid=104177868748180292987&rtpof=true&sd=true
 
 ## Questions (KPIs)
-DRIVERS
-- On time Delivery Rate.
-- Revenue per mile
-- how much miles per gallon?
-FLEET UTILIZATION
-- Miles per truck?
-- cost per truck?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
+KPI's
+- On time Delivery Rate (%).
+- Revenue per mile (RPM)
+- Miles Per Gallon (MPG)
+
 
 - Dashboard Interaction 
 ## Process
