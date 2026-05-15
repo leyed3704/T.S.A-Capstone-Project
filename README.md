@@ -1,6 +1,6 @@
 # Oladipupo Store Data Analysis (Interactive Dashboard creation )
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022,2023 and 2024. So that, the owner of the Oladipupo store can understand their customers,staffs and fleets to grow more sales in the coming years.
+Oladipupo Store wants to create an annual sales report for 2022,2023 and 2024. So that, the owner of the Oladipupo store can understand their customers,staffs and fleets to grow more sales in the coming years.
 
 ## Dataset used
 https://drive.google.com/drive/folders/1Uk7U-DvssMWGyBxSaXHo-TqzanptUJZf
