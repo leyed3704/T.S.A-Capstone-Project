@@ -22,6 +22,7 @@ KPI's
 - Merge all  tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 <img width="576" height="326" alt="driver p d" src="https://github.com/user-attachments/assets/15a502c3-ab12-4ce5-899d-cbf1c43b8ebb" />
+
 ## Project Insight
 - On-Time Delivery Performance is Low.The overall On-Time Delivery Rate is 55.60%. This means nearly 44% of deliveries are delayed
 - Fuel Efficiency is Stable.
