@@ -1,6 +1,6 @@
 # Oladipupo Store Data Analysis (Interactive Dashboard creation )
 ## Project Objective
-Oladipupo Store wants to create an annual report of Driver's performance for 2022,2023 and 2024, to evaluate it's driver's performance.
+Oladipupo Store wants to create an annual report of Driver's performance for 2022, 2023 and 2024, to evaluate it's driver's performance.
 ## Dataset used
 https://docs.google.com/spreadsheets/d/1CAT5kcz5HGAEOz4lmiokEmLFbbs6cQQI/edit?usp=drive_link&ouid=104177868748180292987&rtpof=true&sd=true
 ## KPIs
