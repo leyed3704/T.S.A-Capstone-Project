@@ -30,6 +30,6 @@ KPI's
 - Thomas is the Top Revenue Driver. Thomas generated the highest total revenue,also among the highest total deliveries.
 - Karen Has the Lowest Delivery Performance. Karen shows the lowest On-Time Delivery Rate.
 ## Final Conclusion:
-- The company needs to focus on Route optimization, Dispatch planning and Driver coaching to Improve On-Time Delivery
+- The company needs to focus on Route optimization, Dispatch planning and Driver coaching to Improve On-Time Delivery.
  Revenue Looks Strong but Service Quality is Weak
 
