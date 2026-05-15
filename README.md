@@ -9,6 +9,7 @@ KPI's
 - On time Delivery Rate (%).
 - Revenue per mile (RPM)
 - Miles Per Gallon (MPG)
+- Total Deliveries Made
 
 
 - Dashboard Interaction 
